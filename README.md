@@ -1,4 +1,4 @@
-## 本项目为测试 Cpp+Vscode+Mac 环境下的cpp开发
+## 本项目简单展示 Cpp+Vscode+Mac 环境下的cpp开发
 
 参考 https://vector-of-bool.github.io/docs/vscode-cmake-tools/index.html 
 
